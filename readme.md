@@ -9,5 +9,6 @@ To update slides:
 2. make changes in `index.md`
 3. run `big-presentation-compose`
 
+Push to the `master` branch to update the [Slide deck](https://goo.gl/rU1NBi) on github pages.
+
 ---
-[Slide deck](https://goo.gl/rU1NBi)
