@@ -8,3 +8,6 @@ To update slides:
 1. install `npm install -g big-presentation`
 2. make changes in `index.md`
 3. run `big-presentation-compose`
+
+---
+[Slide deck](https://goo.gl/rU1NBi)
